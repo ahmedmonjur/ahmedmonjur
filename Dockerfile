@@ -1,4 +1,4 @@
-FROM phpunit/phpunit
+FROM phpunit/phpunit:5.7.12
 
 COPY . /white_rabbit
 
